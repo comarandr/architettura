@@ -1,3 +1,4 @@
+@scrivere un programma che dopo aver immesso in memoria 4 numeri interi ...
 .data
     n1: .word -3
     n2: .word -4

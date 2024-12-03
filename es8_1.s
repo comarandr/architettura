@@ -1,4 +1,4 @@
-@definire un vettore di 4 parole 
+@definire un vettore di 4 valori uguali a 0 e nella sezione. text un programma che sostituisce il vettore con 
 .data
 vettore: .word 0,0,0,0
 .text
