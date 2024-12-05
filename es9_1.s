@@ -21,3 +21,4 @@ blt ciclo @ritorno al ciclo
 
 
 fine: swi 0x11 @termino il programma
+.end

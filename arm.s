@@ -130,6 +130,12 @@ V: overflow
 CONDIZIONI:
 eq : equal, Z==0
 ne : not equal
+
+SALTO CONDIZIONATO:
+bl : branch and link
+
+
+
 ISTRUZIONI DI CONFRONTO (modificano CPRS)
 
 comparazione: cmp r0, r1 ; compara r0 con r1, aggiorna come subs r r0 r1; cioè r0-r1 = 0

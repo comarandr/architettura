@@ -25,3 +25,4 @@ risultato:
     mov r2, r5
     add r2, r5, lsl 10 @moltiplico n1 per 1024
     @add r2, r2, r5, lsl 10 moltiplico n2 per 1024, in un unico comando
+.end
