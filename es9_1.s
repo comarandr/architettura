@@ -19,6 +19,5 @@ add r3, r3, #4 @punto a a[i+1]
 add r2, r2, #1 @incremento i
 blt ciclo @ritorno al ciclo
 
-
 fine: swi 0x11 @termino il programma
 .end
